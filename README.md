@@ -3,6 +3,7 @@ Snapchat Marketing SDK
 A PHP SDK that can be used to get all marketing spending data and other KPIs using Snapchat API calls. 
 
 > Don't forget to edit the `HttpHandler/SnapHttpConstants.php` file.
+
 ##Example: 
 ```php
 $auth = new  AuthBuilder('{{CLIENT_ID}}', '{{CLIENT_SECRET}}', '{{REDIRECT_URI}}');
