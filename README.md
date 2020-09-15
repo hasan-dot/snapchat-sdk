@@ -4,7 +4,7 @@ A PHP SDK that can be used to get all marketing spending data and other KPIs usi
 
 > Don't forget to edit the `HttpHandler/SnapHttpConstants.php` file.
 
-##Example: 
+## Example: 
 ```php
 $auth = new  AuthBuilder('{{CLIENT_ID}}', '{{CLIENT_SECRET}}', '{{REDIRECT_URI}}');
 try{
@@ -25,7 +25,7 @@ try{
   echo $e->getMessage();
 }
 ```
-##Response
+## Response
 ```json
 {
   "id": "ORGANIZATION_ID",
