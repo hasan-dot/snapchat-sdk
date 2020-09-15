@@ -1,0 +1,9 @@
+{
+	"name": "hasanhw/snapchat-sdk",
+    "description": "A short description of what your package does",
+    "require": {
+    	"php": "^7.2",
+        "aws/aws-sdk-php": "^3.154",
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
