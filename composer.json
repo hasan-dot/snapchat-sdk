@@ -4,7 +4,7 @@
     "require": {
     	"php": "^7.2",
         "aws/aws-sdk-php": "^3.154",
-        "guzzlehttp/guzzle": "^7.0"
+        "guzzlehttp/guzzle": "^6.0"
     },
     "license": "MIT"
 }
