@@ -1,3 +1,5 @@
+# ⛔️ DEPRECATED
+
 Snapchat Marketing SDK
 =======================
 A PHP SDK that can be used to get all marketing spending data and other KPIs using Snapchat API calls. 
